@@ -15,7 +15,7 @@ public class Onibus {
     private int Poltronas;
 
     public String getMarca() {
-        System.out.println("A");
+        System.out.println("Aasa");
         return Marca;
     }
 
